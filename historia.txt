@@ -1,5 +1,8 @@
 Lorenzo es un estudiante de platzi
 
-hace unos meses solo podia escribir algunos comandos de Javascript 
+hace unos meses solo podia escribir algunos comandos de Javascript,
+CSS Y html.
+tambien creia que estos dos ultimos eran lenguajes de programacion.
 
 actualmente esta tomando el curso de Git-Github.
+Ya sabe hacer commit :)
