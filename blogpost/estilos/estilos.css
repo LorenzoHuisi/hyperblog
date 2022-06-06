@@ -47,3 +47,16 @@ body{
 #post{
     padding: 1em;
 }
+#footer{
+    width: auto ;
+    height: 30px;
+
+    background-color: rgb(142, 142, 223);
+}
+#footer #footer-contain p{
+    padding: 0.5em ;
+    color: white;
+    text-align: center;
+    align-items: center;
+    background: #777;
+}
